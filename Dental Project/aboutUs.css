@@ -1,0 +1,70 @@
+.crownTeethAndSideContent-container{
+    display: flex;
+    justify-content:space-evenly;
+    height:608px;
+    margin-top: 67px;
+}
+.teethWithCorwnImage{
+    height:601px;
+    width: 623px;
+    object-fit: fill;
+}
+
+.teethSideContent-box{
+    width:350px;
+    font-size:20px ;
+    color: gray;
+    font-family: 'Gill Sans MT';
+    /* font-weight: 200; */
+    text-align: left;
+    margin-top: 35px;
+}
+.teethSideContent-heading1{
+    font-size: 21px;
+    font-weight: 800;
+    color: rgb(2, 97, 114);
+}
+.teethSideContent-heading2{
+    color: rgb(7, 174, 211);
+    font-weight: 600;
+    margin: 17px 0;
+}
+.teethSideContent-para{
+    font-size: 19px;
+    /* font-weight:200; */
+}
+.teethSideContent-heading3{
+    color: rgb(7, 174, 211);
+    font-weight: 600;
+    font-size: 17px;
+    margin: 45px 0 26px 0;
+}
+/*--------------------------------------------------------------------------*/
+.mainbodypart3-container{
+    display: flex;
+    margin-top: 85px;
+}
+.sub-heading-blue{
+    color: rgb(7, 174, 211);
+    font-weight: 800;
+    font-size: 19px;
+}
+.mainbodypart3-contetBox1{
+    width: 400px;
+    margin-left: 95px;
+
+}
+.mainbodypart3-contetBox2{
+    width: 300px;
+    margin-left: 345px;
+}
+
+
+.mainbodypart4-container{
+    background-color: rgb(6, 116, 136);
+    display: flex;
+}
+.mainbodypart4-container > img{
+    width: 155px;
+    padding: 25px 0 30px 0;
+}
